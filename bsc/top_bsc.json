@@ -1,0 +1,81 @@
+{
+"hot": [
+  {
+    "name": "WBNB Token",
+    "symbol": "BNB",
+    "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+  },
+  {
+    "address": "0xe9c7a827a4ba133b338b844c19241c864e95d75f",
+    "decimals": "6",
+    "name": "FileSystemVideo",
+    "symbol": "FSV",
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xe9c7a827a4ba133b338b844c19241c864e95d75f.png"
+  },
+  {
+    "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82.png",
+    "name": "PancakeSwap Token ",
+    "symbol": "CAKE"
+  },
+  {
+    "address": "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png",
+    "name": "Dai Token ",
+    "symbol": "DAI"
+  },
+  {
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "decimals": "18",
+    "name": "BUSD Token",
+    "symbol": "BUSD",
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+  },
+  {
+    "address": "0x7083609fCE4d1d8Dc0C979AAb8c869Ea2C873402",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x7083609fce4d1d8dc0c979aab8c869ea2c873402.png",
+    "name": "Polkadot Token ",
+    "symbol": "DOT"
+  },
+  {
+    "address": "0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xF8A0BF9cF54Bb92F17374d9e9A321E6a111a51bD.png",
+    "name": "ChainLink Token",
+    "symbol": "LINK"
+  },
+  {
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "decimals": "18",
+    "name": "Tether USD",
+    "symbol": "USDT",
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x55d398326f99059fF775485246999027B3197955.png"
+  },
+  {
+    "address": "0x947950BcC74888a40Ffa2593C5798F11Fc9124C4",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x947950BcC74888a40Ffa2593C5798F11Fc9124C4.png",
+    "name": "SushiToken",
+    "symbol": "SUSHI"
+  },
+  {
+    "address": "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0xBf5140A22578168FD562DCcF235E5D43A02ce9B1.png",
+    "name": "Uniswap",
+    "symbol": "UNI"
+  },
+  {
+    "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+    "decimals": 18,
+    "logoURI": "https://acswapinfo.github.io/tokens/bsc/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png",
+    "name": "USD Coin",
+    "symbol": "USDC"
+  }
+]
+}
