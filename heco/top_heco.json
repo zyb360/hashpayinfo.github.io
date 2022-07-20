@@ -1,0 +1,52 @@
+{
+"hot": [
+    {
+        "name": "Wrapped HT",
+        "address": "0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f",
+        "symbol": "HT",
+        "decimals": 18,
+        "chainId": 128,
+        "logoURI": "https://acswapinfo.github.io/tokens/heco/0x5545153ccfca01fbd7dd11c0b23ba694d9509a6f.png"
+    },
+    {
+        "name": "USDC",
+        "address": "0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b",
+        "symbol": "USDC",
+        "decimals": 6,
+        "chainId": 128,
+        "logoURI": "https://acswapinfo.github.io/tokens/heco/0x9362bbef4b8313a8aa9f0c9808b80577aa26b73b.png"
+    },
+    {
+        "name": "MDX",
+        "address": "0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c",
+        "symbol": "MDX",
+        "decimals": 18,
+        "chainId": 128,
+        "logoURI": "https://acswapinfo.github.io/tokens/heco/0x25D2e80cB6B86881Fd7e07dd263Fb79f4AbE033c.png"
+    },
+    {
+        "name": "Heco-Peg HBTC Token",
+        "address": "0x66a79d23e58475d2738179ca52cd0b41d73f0bea",
+        "symbol": "HBTC",
+        "decimals": 18,
+        "chainId": 128,
+        "logoURI": "https://acswapinfo.github.io/tokens/heco/0x66a79d23e58475d2738179ca52cd0b41d73f0bea.png"
+    },
+    {
+        "name": "Heco-Peg HUSD Token",
+        "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+        "symbol": "HUSD",
+        "decimals": 8,
+        "chainId": 128,
+        "logoURI": "https://acswapinfo.github.io/tokens/heco/0x0298c2b32eae4da002a15f36fdf7615bea3da047.png"
+    },
+    {
+        "name": "Heco-Peg USDTHECO Token",
+        "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+        "symbol": "USDT",
+        "decimals": 18,
+        "chainId": 128,
+        "logoURI": "https://acswapinfo.github.io/tokens/heco/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+    }
+]
+}
